@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
 
     [languages.en.params]
       author = "Yizao Tang"
-      description = "Student in [Peking University](https://pku.edu.com). Focusing on Computer Graphics and Physical simulation."
+      description = "Student in [Peking University](https://pku.edu.com). Focusing on Computer Graphics and Physically-based Visual Computing."
       motto = "All tragedy erased, I see only wonders."
     
     [[languages.en.menu.main]]
@@ -38,85 +38,31 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#publications'
       weight = 3
     [[languages.en.menu.main]]
-      name = 'Honors and Awards'
-      url = '#honors-and-awards'
-      weight = 4
-    [[languages.en.menu.main]]
       name = 'Educations'
       url = '#educations'
       weight = 5
-    [[languages.en.menu.main]]
-      name = 'Invited Talks'
-      url = '#invited-talks'
-      weight = 6
-    [[languages.en.menu.main]]
-      name = 'Internships'
-      url = '#internships'
-      weight = 7
       
-  [languages.zh]
-    languageName = '中文'
-    weight = 2
-    title = '学术主页'
-    
-    [languages.zh.params]
-      author = "王小明"
-      description = "某某大学博士生，专注于计算机视觉与深度学习"
-      motto = "世界上大部分事，都没有太大意义。真理与爱除外。"
-    
-    [[languages.zh.menu.main]]
-      name = '关于我'
-      url = '#about-me'
-      weight = 1
-    [[languages.zh.menu.main]]
-      name = '新闻'
-      url = '#news'
-      weight = 2
-    [[languages.zh.menu.main]]
-      name = '发表论文'
-      url = '#publications'
-      weight = 3
-    [[languages.zh.menu.main]]
-      name = '荣誉与奖项'
-      url = '#honors-and-awards'
-      weight = 4
-    [[languages.zh.menu.main]]
-      name = '教育背景'
-      url = '#educations'
-      weight = 5
-    [[languages.zh.menu.main]]
-      name = '受邀报告'
-      url = '#invited-talks'
-      weight = 6
-    [[languages.zh.menu.main]]
-      name = '实习经历'
-      url = '#internships'
-      weight = 7
-
 [params]
-  profilePicture = "images/profile.png"
+  profilePicture = "images/avatar.png"
   enableDarkMode = true
   
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
-    icon = "fab fa-github"
-  [[params.social]]
-    name = "google-scholar"
-    url = "https://scholar.google.com/"
-    icon = "fab fa-google-scholar"
+    url = "https://github.com/skytang0205/"
+    icon = "fab fa-fw fa-github"
   [[params.social]]
     name = "email"
-    url = "mailto:example@example.com"
-    icon = "fas fa-envelope"
+    url = "skytang0205@outlook.com"
+    icon = "fas fa-fw fa-envelope"
   [[params.social]]
-    name = "linkedin"
-    url = "https://linkedin.com/"
-    icon = "fab fa-linkedin"
+    name = "steam"
+    url = "skytang0205@outlook.com"
+    icon = "fab fa-fw fa-steam-square"
   [[params.social]]
-    name = "zhihu"
-    url = "https://zhihu.com/"
-    icon = "fab fa-zhihu"
+    name = "twitter"
+    url = "https://x.com/skytang0205"
+    icon = "fab fa-fw fa-twitter-square"
+    
 
 [build]
   writeStats = false
