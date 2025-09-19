@@ -11,8 +11,34 @@ I'm currently a fourth-year undergraduate student from School of EECS, Peking Un
 - *2025/08* &nbsp;🎉🎉 Our paper has been conditionally accepted to SIGGRAPH Asia 2025.
 
 # 📝 Publications {#publications}
+*(\*: joint 1st authors, †: corresponding authors)*
 
-- to be approved.
+<div class="publication"> 
+    <div class="teaser"> 
+        <img src="./img/representative.jpg" alt="Project Teaser"> 
+    </div> 
+    <div class="details"> 
+        <p class="title"> <strong>The Granule-In-Cell Method for Simulating Sand--Water Mixtures</strong> </p> 
+        <p class="authors"> Yizao Tang*, Yuechen Zhu*, Xingyu Ni†, Baoquan Chen </p> 
+        <p class="venue"> ACM Transactions on Graphics (TOG), 2025 (recently approved) </p> 
+        <p class="links"> 
+            [<a href="https://arxiv.org/abs/2504.00745" target="_blank">Paper</a>] 
+            [<a href="./pdf/_SIGA_25_Revsion__Sand_Water_Coupling (3).pdf" target="_blank">PDF</a>]
+        </p> 
+        </div> 
+</div>
+<style> 
+    .publication { display: flex; margin-bottom: -25px; margin-top: -25px; padding: 1em; background: #f9f9f9; border-radius: 8px; } 
+    .teaser { flex: 0 0 200px; margin-right: 1.5em; margin-top: 15px;} 
+    .teaser img { width: 100%; border: 1px solid #ddd; border-radius: 4px; } 
+    .details { flex: 1; line-height: 1;} 
+    .title { font-size: 1em; margin-bottom: -50px; color: #2E86AB;}
+    .authors { font-size: 1em; margin-bottom: -50px;}, 
+    .venue { margin-bottom: -50px; color: #555; } 
+    .links { margin-top: -50px; } 
+    .links a {font-size: 1em; margin-right: 0.8em; text-decoration: none; color: #555; } 
+    .links a:hover { text-decoration: underline; } 
+</style>
 
 # 🎖 Honors and Awards {#honors-and-awards}
 -  *2019/11* &nbsp; Silver Medal in 33th Chinese Chemistry Olympiad (CChO)
