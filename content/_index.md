@@ -23,7 +23,7 @@ I'm currently a fourth-year undergraduate student from School of EECS, Peking Un
         <p class="venue"> ACM Transactions on Graphics (TOG), 2025 (recently approved) </p> 
         <p class="links"> 
             [<a href="https://arxiv.org/abs/2504.00745" target="_blank">Paper</a>] 
-            [<a href="./pdf/_SIGA_25_Revsion__Sand_Water_Coupling.pdf" target="_blank"  rel="noopener">PDF</a>]
+            [<a href="./img/_SIGA_25_Revsion__Sand_Water_Coupling.pdf" target="_blank"  rel="noopener">PDF</a>]
         </p> 
         </div> 
 </div>
