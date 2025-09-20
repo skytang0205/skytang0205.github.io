@@ -13,8 +13,6 @@ I'm currently a fourth-year undergraduate student from School of EECS, Peking Un
 # 📝 Publications {#publications}
 *(\*: joint 1st authors, †: corresponding authors)*
 
-[下载我的论文](./pdf/_SIGA_25_Revsion__Sand_Water_Coupling.pdf)
-
 <div class="publication"> 
     <div class="teaser"> 
         <img src="./img/representative.jpg" alt="Project Teaser"> 
